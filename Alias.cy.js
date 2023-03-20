@@ -1,4 +1,4 @@
-
+///<reference types="cypress"/>
 describe("Concept of Alias", ()=>{
 
     it("Filling invalid username and password",()=>{
